@@ -7,7 +7,7 @@ int main(void) {
                 "Python",
                 "C",
                 "Java"
-            };
+            };//k
 
         Question *q = question("Choose a language", 3, options);
 
