@@ -1,3 +1,17 @@
+/*
+* Copyright (c) 2026 [Your Name or Organization]
+ *
+ * This file is part of Question-in-c.
+ *
+ * SPDX-License-Identifier: EPL-2.0
+ *
+ * This Source Code is subject to the terms of the Eclipse Public License,
+ * v. 2.0. If a copy of the EPL-2.0 was not distributed with this
+ * file, You can obtain one at:
+ * https://www.eclipse.org/legal/epl-2.0/
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
